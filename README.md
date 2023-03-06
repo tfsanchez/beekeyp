@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @beekeyp
 - 👀 I’m interested in health science research.
 - 🌱 I’m currently learning R & Python!
-- 💞️ I have nothing to offer; sorry.
-- 📫 Bleep bloop me on the thing.
+- 📫 Bleep bloop me on the doobly-doo.
 
 <!---
 beekeyp/beekeyp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
